@@ -10,3 +10,19 @@ In another study, Jupyter Notebook named "mars_data_challenge_part_1.ipynb", Mar
 
 ## Results 
 In this study, the temperature values obtained with the help of bar charts are visualized on a monthly basis. In this way, the lowest and highest temperature data and monthly differences in atmospheric pressure values can be easily analyzed. 
+
+## Summary 
+
+##### 1. How many months exist on Mars?
+Mars has 12 months but the scraped dataset spans 1,967 Martian days.
+
+##### 2. Which month, on average, has the lowest temperature? The highest?
+The coldest month is Month 3 with an average temperature of -83.3073°C.
+The warmest month is Month 8 with an average temperature of -68.383°C.
+
+##### 3. Which month, on average, has the lowest atmospheric pressure? The highest?
+Month 6 has the lowest atmospheric pressure with an average pressure of 745.054 Pascals.
+Month 9 has the greatest atmospheric pressure with an average pressure of 913.306 Pascals.
+
+##### 4. How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
+The plot seems to show about three Martian cycles over about 5.5 terrestrial years. One Martian year would contain about 669.5 terrestrial days. Mars is a little slower, and farther from the sun, so a full circuit takes 687 Earth days - or one Mars year. That longer year means longer seasons too. Because of that, error is  2.55%.
